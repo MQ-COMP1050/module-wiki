@@ -1,6 +1,6 @@
 # Module Exam Handouts
 
-Students are invited to contribute to [the wiki](https://github.com/Comp1050-2024s1/module-wiki/wiki) in this repo. It contains for each of the three module exams a wiki page as a markdown file.
+Students are invited to contribute to [the wiki](https://github.com/MQ-COMP1050/module-wiki/wiki) in this repo. It contains for each of the three module exams a wiki page as a markdown file.
 
 * We will print the first 2 pages of each page print them on paper.
 * The printed pages will be handed out at the respective module exam.
@@ -11,4 +11,4 @@ Students are invited to contribute to [the wiki](https://github.com/Comp1050-202
 Of course, the normal rules for editing public documents at a university apply. We reserve the right to edit the document if it contains offensive or unsuitable content.
 
 
-Go to [the wiki](https://github.com/Comp1050-2024s1/module-wiki/wiki)!
+Go to [the wiki](https://github.com/MQ-COMP1050/module-wiki/wiki)!
