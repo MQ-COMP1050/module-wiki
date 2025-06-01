@@ -1,4 +1,4 @@
-# Practice and Final Exam Handouts
+# Final Exam Companion Handout
 
 Students are invited to contribute to [the wiki](https://github.com/MQ-COMP1050/module-wiki/wiki) in this repo. It contains a markdown file for both the practice exam and the final exam.
 
